@@ -1,3 +1,4 @@
+
 class user:
     name = None
     email = None
